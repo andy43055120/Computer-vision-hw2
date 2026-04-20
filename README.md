@@ -11,7 +11,7 @@ to leverage both strong feature extraction and efficient transformer-based objec
 ## Environment Setup
 Required libraries can be installed using:
 ```base
-!pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
